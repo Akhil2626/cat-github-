@@ -1,7 +1,8 @@
 class cat
 {
-public stativ void main(string args [])
+public static void main(String args[])
 {
-system.out.println("First12345vddsfdsfdsfcsd6789 java program")
+System.out.println("First12345vddsfdsfdsfcsd6789 java program");
+System.out.println("First12345vddsfdsfdsfcsd6789 java program");
 }
 }
